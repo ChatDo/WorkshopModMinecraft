@@ -1,0 +1,16 @@
+[
+{
+  "modid": "workshopalwyn",
+  "name": "Mod Workshop Alwyn",
+  "description": "Mod Workshop Alwyn.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ChatDo"],
+  "credits": "Alwyn, for the workshop",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
